@@ -10,7 +10,6 @@ function onOpen() {
 }
 
 
-
 //Offer Letter
 
 function createNewGoogleDocs1() {
@@ -80,6 +79,7 @@ function sendEmailWithAttachment1(row,fileid,copy)
   
 }
 
+
 //Appointment Letter
 
 function createNewGoogleDocs2() {
@@ -148,6 +148,7 @@ function sendEmailWithAttachment2(row,fileid,copy)
   
 }
 
+
 //Confirmation Letter
 
 function createNewGoogleDocs3() {
@@ -214,6 +215,7 @@ function sendEmailWithAttachment3(row,fileid,copy)
   
   
 }
+
 
 
 //Appraisal Letter
